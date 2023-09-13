@@ -16,7 +16,7 @@
 ### Plugin description
 
 * Detect NeuN and CFos cells with Stardist
-* Colcalize NeuN and CFos cells
+* Colocalize NeuN and CFos cells
 * For each channel, compute background noise as median intensity value of Z projection over min intensity
 * For each cell, compute its volume and intensity/background-corrected intensity in each channel in which it appears
 
